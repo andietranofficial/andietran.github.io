@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andie Tran - a DA, DE and now transition to AI Engineeer </h1>
 
+**Data Analytics Engineer** @ Greshamhouse Europe · based in Zurich, Switzerland.
 
 - 🌱 Goals: Become a translator between tech and business.
 - 👨‍💻 I’m currently working on **AI-powered applications & data analytics engineer projects** 
